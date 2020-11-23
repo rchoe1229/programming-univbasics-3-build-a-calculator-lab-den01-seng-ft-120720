@@ -1,6 +1,6 @@
 def addition(num1, num2)
   num = #{num1} + #{num2}
-  puts num.addition
+  puts num
 end
 
 def subtraction(num1, num2)
